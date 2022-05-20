@@ -1,0 +1,30 @@
+{
+  "name": "my-own-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.6.1",
+    "core-js": "^3.8.3",
+    "firebase": "^9.8.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "register-service-worker": "^1.7.2",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.1",
+    "vuelidate": "^0.7.7",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-pwa": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.51.0",
+    "sass-loader": "^12.6.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
